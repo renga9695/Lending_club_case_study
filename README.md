@@ -2,7 +2,7 @@
 This is a Repository contains the Group Case Study on Lending Club data as a part of the Upgrad Case Study Session
 
 
-## Aproach Done:
+## Steps Followed:
   - Data Understanding
   - Data Cleaning
   - Univariant Analysis
@@ -10,6 +10,7 @@ This is a Repository contains the Group Case Study on Lending Club data as a par
   - Correlation Matrix
   - Recommendation
 
-## Team Members
-   **Anshu Dhinam** 
-   **Renganathan Rajagopal**
+### Team Members
+       Anshu Dhinam
+   
+       Renganathan Rajagopal
